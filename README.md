@@ -120,8 +120,8 @@ Chintamanrao Institute of Management Development And Research (CIMDR), Sangli
 
 - 📍 Sangli, Maharashtra, India  
 - 📧 Email: omkarvilasmote@gmail.com  
-- 💼 LinkedIn  
-- 💻 GitHub  
+- 💼 LinkedIn: https://www.linkedin.com/in/omkarvilasmote/  
+- 💻 GitHub: https://github.com/omkarvilasmote 
 
 ---
 
